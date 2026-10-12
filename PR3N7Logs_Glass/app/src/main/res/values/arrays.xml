@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_types">
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Missed</item>
+        <item>Rejected</item>
+        <item>Blocked</item>
+    </string-array>
+</resources>

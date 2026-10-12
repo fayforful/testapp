@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_start">#F0E6FF</color>
+    <color name="background_end">#E0F7FA</color>
+    <color name="glass">#CCFFFFFF</color>
+    <color name="glass_stroke">#80FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="accent_pink">#FF6B9D</color>
+    <color name="accent_purple">#A855F7</color>
+    <color name="accent_blue">#3B82F6</color>
+    <color name="accent_cyan">#22D3EE</color>
+    <color name="accent_orange">#FB923C</color>
+    <color name="accent_green">#34D399</color>
+    <color name="button_start">#EC4899</color>
+    <color name="button_end">#3B82F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="icon_bg_pink">#FCE7F3</color>
+    <color name="icon_bg_blue">#DBEAFE</color>
+    <color name="icon_bg_green">#D1FAE5</color>
+    <color name="icon_bg_orange">#FFEDD5</color>
+    <color name="icon_bg_purple">#F3E8FF</color>
+</resources>

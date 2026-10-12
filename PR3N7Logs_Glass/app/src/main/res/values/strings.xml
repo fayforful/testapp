@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PR3N7 Logs</string>
+    <string name="subtitle">Generate realistic call logs</string>
+    <string name="hint_phone">Enter mobile number</string>
+    <string name="label_phone">Mobile Number / Phone</string>
+    <string name="or">OR</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="choose_contact_sub">Select from your contacts</string>
+    <string name="call_type">Call Type</string>
+    <string name="call_type_sub">Incoming, Outgoing or Missed</string>
+    <string name="duration">Duration (seconds)</string>
+    <string name="duration_hint">Enter call duration</string>
+    <string name="date">Date</string>
+    <string name="select_date">Select date</string>
+    <string name="time">Time</string>
+    <string name="select_time">Select time</string>
+    <string name="generate">Generate Call Log</string>
+    <string name="success">Call log added successfully</string>
+    <string name="error_permission">Permission required</string>
+    <string name="error_empty">Please enter phone number</string>
+</resources>
